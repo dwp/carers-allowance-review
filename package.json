@@ -1,6 +1,6 @@
 {
   "name": "@dwp-govuk/govuk-prototype-kit",
-  "version": "13.20.1-dwp.2",
+  "version": "13.20.2-dwp.2",
   "description": "Prototype package for group-wide consumption via GitLab NPM Package Registry.",
   "repository": {
     "type": "git",
