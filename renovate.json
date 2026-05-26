@@ -10,4 +10,9 @@
     "local>dwp/secure-development/renovate-bot//shared-configs/datasources/terraform",
     "local>dwp/secure-development/renovate-bot//shared-configs/terraform-provider-registry-tofu-override"
   ],
+  "timezone": "Europe/London",
+  "schedule": [
+    "every day"
+  ],
+  "dependencyDashboard": true
 }
