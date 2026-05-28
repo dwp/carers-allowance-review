@@ -14,13 +14,12 @@
     "start": "govuk-prototype-kit start"
   },
   "dependencies": {
-    "@dwp-govuk/govuk-prototype-kit": "^13.20.1-dwp.2",
+    "@dwp-govuk/govuk-prototype-kit": "latest",
     "@dwp/dwp-frontend": "4.1.0",
     "@govuk-prototype-kit/common-templates": "3.0.0",
     "@ministryofjustice/frontend": "^9.0.0",
     "axios": "^1.16.1",
     "govuk-frontend": "6.1.0",
-    "govuk-prototype-kit": "13.20.1",
     "hmrc-frontend": "^7.15.0",
     "jquery": "^4.0.0",
     "nunjucks": "^3.2.4"
