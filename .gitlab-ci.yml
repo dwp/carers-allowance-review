@@ -34,3 +34,10 @@ variables:
   PACKAGE_REGISTRY_URL: "https://gitlab.com/api/v4/groups/dwp%2Fuser-centred-design/-/packages/npm/"
 secret_detection:
   stage: secret-detection
+
+
+install-dependencies:
+  image: node:18
+  stage: build
+  script:
+    - npm install
